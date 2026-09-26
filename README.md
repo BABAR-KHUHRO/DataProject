@@ -113,14 +113,3 @@ This project was completed as part of the:
 **Meta Database Engineer Professional Certificate**
 
 The official capstone course focuses on creating a database and client for the Little Lemon restaurant and demonstrates skills in database design, sales reporting, table booking, data analytics and visualization, and database client development.
-
-## Author
-
-**Babar Khan**
-
-GitHub:  
-https://github.com/BABAR-KHUHRO
-
-## Repository
-
-https://github.com/BABAR-KHUHRO/DataProject/tree/main/Database%20Engineer%20Capstone
